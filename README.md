@@ -16,3 +16,6 @@ Buka terminal pada file dashboard.py lalu jalankan
 
 ## Cara Lainnya:
 Bisa Menggunakan dengan link berikut ini : https://bikesystem.streamlit.app/
+
+## Link Github
+Bisa mengecek langsung dengan link berikut ini: https://github.com/Roysintax/proyek-analisis-data---bangkit.git
